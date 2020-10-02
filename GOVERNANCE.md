@@ -44,9 +44,9 @@ depend on and trust to make decisions in the best interest of the project.
 
 Periodically, the existing maintainers curate a list of contributors that have
 shown regular activity on the project over the prior months. From this list,
-maintainer candidates are selected and proposed maintainers slack channel.
+maintainer candidates are selected and proposed maintainers' slack channel.
 
-After a candidate has been announced on the maintainers slack channel, the
+After a candidate has been announced on the maintainers' slack channel, the
 existing maintainers are given five business days to discuss the candidate,
 raise objections and cast their vote. The Votes take place via the pull request 
 comment. Candidates must be approved by at least 66% of the
